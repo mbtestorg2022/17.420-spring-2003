@@ -4,19 +4,138 @@ title: Calendar
 uid: 21ea00c3-51c3-17ca-69d2-ebc4da4f57ec
 ---
 
-| LEC # | TOPICS |
-| --- | --- |
-| {{< td-colspan 2 >}}**Part I: Foundations and Contexts**{{< /td-colspan >}} ||
-| 1 | Introduction: The Classics – Concepts and Contexts |
-| 2 | Realism and Neo-realism |
-| 3 | Liberalism and Neo-liberalism |
-| 4 | Institutionalism and Neo-institutionalism |
-| 5 | Constructivism and Contentions |
-| {{< td-colspan 2 >}}**Part II: New Challenges and Critical Applications**{{< /td-colspan >}} ||
-| 6 | Gaps in Theory: What’s Missing? |
-| 7 | Environmental Perspectives |
-| 8 | Emergent and Evolutionary Dynamics |
-| 9 | International Conflict and Warfare |
-| 10 | Transformation of Structures and Processes |
-| 11 | Globalization and IR Theory |
-| 12 | Normative and Empirical Challenges – 21sts Century
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Part I: Foundations and Contexts**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: The Classics – Concepts and Contexts
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Realism and Neo-realism
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Liberalism and Neo-liberalism
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Institutionalism and Neo-institutionalism
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Constructivism and Contentions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Part II: New Challenges and Critical Applications**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Gaps in Theory: What’s Missing?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Environmental Perspectives
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Emergent and Evolutionary Dynamics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+International Conflict and Warfare
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Transformation of Structures and Processes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Globalization and IR Theory
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Normative and Empirical Challenges – 21sts Century
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
